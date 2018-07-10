@@ -20,6 +20,3 @@ nights = gets.chomp.downcase
 # Lastly, puts it all back by interpolating these values in a string.
 
 puts "I want to stay in #{stay} for #{nights} nights. I want to eat #{eat}."
-
-name = gets.chomp 
-puts "hello #{name}"
